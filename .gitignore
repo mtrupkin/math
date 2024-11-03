@@ -1,0 +1,17 @@
+### Deno ###
+deno.lock
+
+/.idea/
+/.vscode/
+
+/node_modules
+
+# Build output directories
+dist/
+build/
+
+# Coverage reports
+coverage/
+
+# Environment variable files
+.env
